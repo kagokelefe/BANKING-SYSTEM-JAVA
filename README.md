@@ -1,6 +1,6 @@
 #BANKING SYSTEM
 A Java banking system developed using a layered architecture. The application separates the user interface, business logic, data access and data models to keep the code organised and maintainable.
-##PROJECT STRUCTURE
+#PROJECT STRUCTURE
 java/
 ├── app/          # Application entry point and navigation
 ├── controller/   # Handles user actions and screen logic
@@ -11,7 +11,7 @@ java/
 
 resources/        # FXML views, CSS, and other application resources
     
-##Main Features
+#Main Features
 -Customer registration and login
 -Account management
 -Savings account support
@@ -21,7 +21,7 @@ resources/        # FXML views, CSS, and other application resources
 -JavaFX user interface built with FXML
 -Separation of concerns using Model, DAO, Service, and Controller layers
 
-##Technologies used
+#Technologies used
 -Java
 -JavaFX
 -FXML
